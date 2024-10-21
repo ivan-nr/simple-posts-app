@@ -23,6 +23,7 @@ This is a simple Next.js application that allows users to view and create posts 
 - Tailwind CSS
 - shadcn/ui
 - react-hook-form
+- zod
 - husky
 
 ## Prerequisites
