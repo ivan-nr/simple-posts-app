@@ -14,7 +14,7 @@ export function PostList() {
   if (isLoading)
     return (
       <div className="flex w-full justify-center items-center h-[calc(100vh-9rem)]">
-        <p className="text-xl">Loading...</p>
+        <p className="text-xl font-medium">Loading...</p>
       </div>
     );
   if (error) return <div>Error: {error.toString()}</div>;
