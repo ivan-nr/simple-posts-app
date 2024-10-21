@@ -15,7 +15,7 @@ This is a simple Next.js application that allows users to view and create posts 
 
 ## Technologies Used
 
-- Next.js 13 (App Router)
+- Next.js (App Router)
 - React
 - TypeScript
 - Redux Toolkit
