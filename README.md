@@ -1,38 +1,3 @@
-# Posts Application
-
-This is a simple Next.js application that allows users to view and create posts using the JSONPlaceholder API.
-
-## Features
-
-- Display a list of posts fetched from JSONPlaceholder API
-- Add new posts using a form
-- Responsive design using Tailwind CSS
-- State management with Redux Toolkit
-- API integration using Redux Toolkit Query
-- UI components from shadcn/ui library
-- Form handling with react-hook-form
-- husky for commit lint
-
-## Technologies Used
-
-- Next.js (App Router)
-- React
-- TypeScript
-- Redux Toolkit
-- Redux Toolkit Query
-- Tailwind CSS
-- shadcn/ui
-- react-hook-form
-- zod
-- husky
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- Node.js (v14.0.0 or later)
-- npm (v6.0.0 or later)
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
